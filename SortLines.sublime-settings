@@ -1,0 +1,4 @@
+{
+    // fill color for duplicate lines (needs Sublime Text build 3149+)
+    "duplicate_background": "#FFFF00"
+}

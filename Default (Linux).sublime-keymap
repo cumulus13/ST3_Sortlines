@@ -1,0 +1,66 @@
+[
+    {
+        "keys": [
+            "ctrl+alt+shift+a"
+        ],
+        "command": "sort_lines_by_first_word",
+        "args": {
+            "reverse": false,
+            "case_sensitive": false
+        }
+    },
+    {
+        "keys": [
+            "ctrl+alt+shift+z"
+        ],
+        "command": "sort_lines_by_first_word",
+        "args": {
+            "reverse": true,
+            "case_sensitive": false
+        }
+    },
+    {
+        "keys": [
+            "ctrl+alt+shift+q"
+        ],
+        "command": "sort_lines_by_first_word",
+        "args": {
+            "reverse": false,
+            "case_sensitive": true
+        }
+    },
+    {
+        "keys": [
+            "ctrl+alt+shift+w"
+        ],
+        "command": "sort_lines_by_first_word",
+        "args": {
+            "reverse": true,
+            "case_sensitive": true
+        }
+    },
+    {
+        "keys": [
+            "ctrl+alt+shift+d"
+        ],
+        "command": "mark_duplicate_lines",
+        "args": {
+            "case_sensitive": false
+        }
+    },
+    {
+        "keys": [
+            "ctrl+alt+shift+e"
+        ],
+        "command": "mark_duplicate_lines",
+        "args": {
+            "case_sensitive": true
+        }
+    },
+    {
+        "keys": [
+            "ctrl+alt+shift+c"
+        ],
+        "command": "clear_duplicate_marks"
+    }
+]

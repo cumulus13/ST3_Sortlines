@@ -30,5 +30,30 @@
             "reverse": true,
             "case_sensitive": true
         }
+    },
+    {
+        "caption": "Duplicates: Mark Duplicate Lines (case-insensitive)",
+        "command": "mark_duplicate_lines",
+        "args": {
+            "case_sensitive": false
+        }
+    },
+    {
+        "caption": "Duplicates: Mark Duplicate Lines (case-sensitive)",
+        "command": "mark_duplicate_lines",
+        "args": {
+            "case_sensitive": true
+        }
+    },
+    {
+        "caption": "Duplicates: Mark Only Repeats (skip first occurrence)",
+        "command": "mark_duplicate_lines",
+        "args": {
+            "mark_first": false
+        }
+    },
+    {
+        "caption": "Duplicates: Clear Marks",
+        "command": "clear_duplicate_marks"
     }
 ]
