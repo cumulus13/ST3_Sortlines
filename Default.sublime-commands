@@ -1,0 +1,34 @@
+[
+    {
+        "caption": "Sort Lines: First Word A-Z (case-insensitive)",
+        "command": "sort_lines_by_first_word",
+        "args": {
+            "reverse": false,
+            "case_sensitive": false
+        }
+    },
+    {
+        "caption": "Sort Lines: First Word A-Z (case-sensitive)",
+        "command": "sort_lines_by_first_word",
+        "args": {
+            "reverse": false,
+            "case_sensitive": true
+        }
+    },
+    {
+        "caption": "Sort Lines: First Word Z-A (case-insensitive)",
+        "command": "sort_lines_by_first_word",
+        "args": {
+            "reverse": true,
+            "case_sensitive": false
+        }
+    },
+    {
+        "caption": "Sort Lines: First Word Z-A (case-sensitive)",
+        "command": "sort_lines_by_first_word",
+        "args": {
+            "reverse": true,
+            "case_sensitive": true
+        }
+    }
+]

@@ -1,0 +1,4 @@
+[
+    // Uncomment / change to taste
+    // { "keys": ["ctrl+alt+shift+l"], "command": "sort_lines_by_first_word", "args": {"reverse": false, "case_sensitive": false} }
+]
